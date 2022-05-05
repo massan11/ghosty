@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6d7999dC8646CcAe99Fe2bcA3c9ac81FA3d60605",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x6d7999dc8646ccae99fe2bca3c9ac81fa3d60605",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Ghost Forest",
+  "SYMBOL": "GFNFT",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ghost-forest",
+  "SHOW_BACKGROUND": true
+}
